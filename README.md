@@ -275,6 +275,7 @@ python train_hw3_4.py
 ```
 HW3/
 ├── README.md                    # 本報告
+├── chat_conversation.md         # LLM 對話紀錄
 ├── requirements.txt             # 依賴套件
 ├── gridworld/                   # GridWorld 環境
 │   ├── __init__.py
@@ -314,6 +315,10 @@ HW3/
 | HW3-4 | Random | Rainbow DQN | **91%** |
 
 隨著環境難度增加（Static → Player → Random），需要更強大的演算法和更多訓練來維持高勝率。
+
+---
+
+> **Note:** The full conversation with the LLM used during the development of this project is available in [chat_conversation.md](chat_conversation.md).
 
 ---
 
