@@ -1,7 +1,10 @@
 # HW3: DQN and its Variants on GridWorld
 
-> **深度強化學習 — Homework 3**  
-> 國立中興大學 · 四年級下學期
+---
+
+> **Note:** The full conversation with the LLM used during the development of this project is available in [chat_conversation.md](chat_conversation.md).
+
+---
 
 ## 📋 目錄
 
@@ -315,12 +318,6 @@ HW3/
 | HW3-4 | Random | Rainbow DQN | **91%** |
 
 隨著環境難度增加（Static → Player → Random），需要更強大的演算法和更多訓練來維持高勝率。
-
----
-
-> **Note:** The full conversation with the LLM used during the development of this project is available in [chat_conversation.md](chat_conversation.md).
-
----
 
 ## 參考資料
 
