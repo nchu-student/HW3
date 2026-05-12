@@ -1,10 +1,6 @@
 # HW3: DQN and its Variants on GridWorld
 
----
-
 > **Note:** The full conversation with the LLM used during the development of this project is available in [chat_conversation.md](chat_conversation.md).
-
----
 
 ## 📋 目錄
 
